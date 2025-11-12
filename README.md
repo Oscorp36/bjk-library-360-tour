@@ -19,6 +19,6 @@ Captured with a Ricoh THETA SC2; assembled with Marzipano Tool; deployed on GitH
 - Hosting: GitHub Pages (`index.html` at repo root, `.nojekyll` present)
 
 ## Credits
-- Capture & assembly: Oscar Rodriguez (SJSU LTI Lab)
+- Capture & assembly: Oscar Rodriguez-Aguilar (SJSU LTI Lab)
 - Library partner: Billie Jean King Main Library (LBPL)
 
