@@ -3,7 +3,8 @@
 A self-hosted 360° tour built with [Marzipano](https://www.marzipano.net/).
 Hosted via GitHub Pages.
 
-**Live tour:** https://YOUR-USERNAME.github.io/bjk-library-360-tour/
+**Live tour:** Live tour: https://oscorp36.github.io/bjk-library-360-tour/
+
 
 ## About
 This tour documents key spaces at the Billie Jean King Main Library (Long Beach, CA).
